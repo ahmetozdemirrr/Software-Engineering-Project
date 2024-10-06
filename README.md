@@ -8,6 +8,11 @@ This repository contains course homework and their solutions.
 |--------	|-----	|-----	|----------	|---------- |----------	|
 | Grades 	|  60   |  	92	| 	100 	|    93 	|    75		|
 
+- In assignment 1, I lost 40 points because the use-case diagram I drew was more like a flow diagram. Correctly drawn versions of the diagram are included in the project reports.
+- In Report 2, we have drawn the `context model` part in the first part incorrectly. The correct version is in the next report.
+
+
+
 The course was given by Prof. Dr. Habil Kalkan at Gebze Technical University for the Department of Computer Engineering in the Fall 2024.
 
 The project was built on 2 parts, web and mobile. The Android part was written by me, the link to the Android part is below. Also the first two reports of the project group and the diagram parts of the last report were made by me.
